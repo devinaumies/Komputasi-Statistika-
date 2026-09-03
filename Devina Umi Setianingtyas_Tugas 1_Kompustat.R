@@ -1,4 +1,3 @@
-setwd("D:/Kuliah/Semester 3/Komputasi Statistika/Tugas")
 # VEKTOR 
 VN <- c(7.9, 3.4, 9.12, 10.7, 15.2, 27.3)
 VN
