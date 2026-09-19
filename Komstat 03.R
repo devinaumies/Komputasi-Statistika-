@@ -1,5 +1,3 @@
-setwd("D:/Kuliah D/Semester 3/Komputasi Statistika/Tugas")
-colours()
 airquality
 #histogram & density
 hist(airquality$Wind,
@@ -49,7 +47,7 @@ plot(airquality$Ozone, airquality$Temp,
      main = "Scatterplot Ozone & Temp",
      xlab = "Temp", 
      ylab = "Ozone")
-rug(airquality$Wind)             
+rug(airquality$Ozone)             
 rug(airquality$Temp, side = 2)
 abline(0, 1, col = "red", lwd = 2)
 
